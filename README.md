@@ -1,4 +1,4 @@
-# AutoYa — Backend (Microservicios)
+# AutoYa — Backend 
 
 Este repositorio contiene el backend distribuido de AutoYa, un marketplace P2P multiciudad para alquiler de vehículos. Está basado en una arquitectura de microservicios con CQRS, eventos y Redis para garantizar disponibilidad consistente y un sistema de reservas resiliente.
 
@@ -33,5 +33,6 @@ Este repositorio contiene el backend distribuido de AutoYa, un marketplace P2P m
 
 - **Frontend AutoYa**: https://github.com/AlvaroV19/AutoYa-Frontend
 - **Docs AutoYa**: https://github.com/AlvaroV19/AutoYa-Docs
+
 
 
