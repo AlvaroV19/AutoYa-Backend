@@ -34,7 +34,3 @@ Este repositorio contiene el backend distribuido de AutoYa, un marketplace P2P m
 - **Frontend AutoYa**: https://github.com/AlvaroV19/AutoYa-Frontend
 - **Docs AutoYa**: https://github.com/AlvaroV19/AutoYa-Docs
 - **Deployment AutoYa**: https://github.com/AlvaroV19/AutoYa-Deployment
-
-
-
-
